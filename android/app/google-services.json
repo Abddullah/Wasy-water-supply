@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830204010886",
+    "project_id": "ews-app-3c4dc",
+    "storage_bucket": "ews-app-3c4dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830204010886:android:3f65b0430841c816528c07",
+        "android_client_info": {
+          "package_name": "com.ews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdG5nYnqY8kp0HrLeSSBZlr2IQFqDIU9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
